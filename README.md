@@ -11,7 +11,7 @@ Me chamo Raphael, tenho 23 anos e sou formado em Sistemas de Informação pela U
 
 <br />
 
-🛠  Techs & Skills
+### 🛠  Techs & Skills
 <br />
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
