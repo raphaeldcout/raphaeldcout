@@ -7,7 +7,7 @@ Me chamo Raphael, tenho 23 anos e sou formado em Sistemas de Informação pela U
 
 - 🔭 CTO - Geral Geek
 - 🎓 Centro Universitário UNA (2017 - 2021)
-- 🌱 Estudando techs Front-End, Back-End e Mobile
+- 🌱 Sempre estudando techs Front-End, Back-End e Mobile
 
 ### 🛠  Techs & Skills
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
