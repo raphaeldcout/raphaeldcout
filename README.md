@@ -1,6 +1,6 @@
-### Hi there 👋
+### Faala Dev 👋
 
-Here are some ideas to get you started:
+Me chamo Raphael, tenho 23 anos e sou formado em Sistemas de Informação pela UNA, em Belo Horizonte/MG 😄.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
