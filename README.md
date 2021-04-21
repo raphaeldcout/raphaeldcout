@@ -1,5 +1,5 @@
 ### 👋 Faala Dev 
-build: passing
+![](https://komarev.com/ghpvc/?username=raphaeldcout)
 
 ### 👨🏻‍💻 Quem eu sou? 
 
@@ -25,4 +25,6 @@ Me chamo Raphael, tenho 23 anos e sou formado em Sistemas de Informação pela U
 ![image](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaeldcout&show_icons=true&theme=dark)
 
