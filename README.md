@@ -1,7 +1,7 @@
-### Faala Dev 👋
+### 👋 Faala Dev 
 build: passing
 
-### Quem eu sou? 👨🏻‍💻 
+### 👨🏻‍💻 Quem eu sou? 
 
 Me chamo Raphael, tenho 23 anos e sou formado em Sistemas de Informação pela UNA, em Belo Horizonte/MG 😄. 
 
