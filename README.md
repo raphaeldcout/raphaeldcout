@@ -5,7 +5,7 @@
 
 Me chamo Raphael, tenho 23 anos e sou formado em Sistemas de Informação pela UNA, em Belo Horizonte/MG 😄. 
 
-- 🔭 CTO - [Geral Geek](https://geralgeek.com.br/)
+- 🚀 CTO - [Geral Geek](https://geralgeek.com.br/)
 - 🎓 Centro Universitário UNA (2017 - 2021)
 - 🌱 Sempre estudando techs Front-End, Back-End e Mobile
 - 🔥 Codificando UI Dribbble (Em Breve)
