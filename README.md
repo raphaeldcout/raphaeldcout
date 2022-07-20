@@ -1,14 +1,13 @@
-### 👋 Faala Dev 
+### 👋 What's up Devs 
 ![](https://komarev.com/ghpvc/?username=raphaeldcout)
 
-### 👨🏻‍💻 Quem eu sou? 
+### 👨🏻‍💻 Who am i? 
 
-Me chamo Raphael, tenho 23 anos e sou formado em Sistemas de Informação pela UNA, em Belo Horizonte/MG 😄. 
+My name is Raphael and I've twenty-four years. I have a degree in System of Information from UNA (https://www.una.br). I live in Belo Horizonte/Brazil and I love my city 😄. 
 
 - 🚀 CTO - [Geral Geek](https://geralgeek.com.br/)
 - 🎓 Centro Universitário UNA (2017 - 2021)
-- 🌱 Sempre estudando techs Front-end, Back-end e Mobile
-- 🔥 Codando UI Dribbble (Em Breve)
+- 🌱 Always learning Front-end, Back-end e Mobile
 
 ### 🛠  Techs & Skills
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
