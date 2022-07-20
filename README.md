@@ -7,7 +7,7 @@ My name is Raphael and I've twenty-four years. I have a degree in System of Info
 
 - 🚀 CTO - [Geral Geek](https://geralgeek.com.br/)
 - 🎓 Centro Universitário UNA (2017 - 2021)
-- 🌱 Always learning Front-end, Back-end e Mobile
+- 🌱 Always learning Front-end, Back-end, Mobile.
 
 ### 🛠  Techs & Skills
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
