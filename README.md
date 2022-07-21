@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 Who am i? 
 
-My name is Raphael and I've twenty-four years. I have a degree in System of Information from UNA (https://www.una.br). I live in Belo Horizonte/Brazil and I love my city 😄. 
+My name is Raphael and I'm twenty-four years old. I have a degree in System of Information from UNA (https://www.una.br). I live in Belo Horizonte/Brazil and I love my city 😄. 
 
 - 🚀 CTO - [Geral Geek](https://geralgeek.com.br/)
 - 🎓 Centro Universitário UNA (2017 - 2021)
