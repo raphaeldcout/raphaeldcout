@@ -5,7 +5,7 @@
 
 My name is Raphael and I'm twenty-four years old. I have a degree in System of Information from UNA (https://www.una.br). I live in Belo Horizonte/Brazil and I love my city 😄. 
 
-- 🚀 CTO - [Geral Geek](https://geralgeek.com.br/)
+- 🚀 Senior Software Engineer - [Geral Geek](https://geralgeek.com.br/)
 - 🎓 Centro Universitário UNA (2017 - 2021)
 - 🌱 Always learning Front-end, Back-end, Mobile.
 
